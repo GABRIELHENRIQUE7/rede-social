@@ -1,4 +1,4 @@
-@charset
+@charset "UTF-8";
 
 *{
     margin: 0px;
@@ -33,4 +33,13 @@ section#telefone{
    left: 50%;
    transform: translate(-50%, -50%);
    background: url('../imagens/frame-iphone.png')no-repeat;
+}
+
+
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 23px;
+    height: 63%;
+    width: 77%;
 }
