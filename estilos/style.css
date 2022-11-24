@@ -55,6 +55,7 @@ section#redeso img {
      border-radius: 50%;
      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.322);
      box-sizing: border-box;
+
 }
 
 
@@ -64,3 +65,6 @@ section#redeso img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.473);
     transition: transform 0.5s;
 }
+
+
+
